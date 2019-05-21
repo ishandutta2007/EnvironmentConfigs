@@ -1,0 +1,10 @@
+export CHROME_DRIVER='/Users/ishandutta2007/Documents/Projects/chromium/chromium/src/out/Default/chromedriver_gleam'
+export PATH="/Users/ishandutta2007/Documents/Projects/chromium/chromium/src/out/Default/chromedriver_gleam:$PATH"
+
+
+
+
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
